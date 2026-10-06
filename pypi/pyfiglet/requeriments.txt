@@ -1,0 +1,12 @@
+colorama 
+gTTs
+art
+pgzeroe
+easygui
+customkinter
+streamlit
+flet 
+gradio
+
+cd .. -> volta uma pasta 
+cd nome_da_pasta -> vai para a pasta 
